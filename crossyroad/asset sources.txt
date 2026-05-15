@@ -1,6 +1,6 @@
 art assets: fully self made
-soundtrack: 
-cell sound effect:
+soundtrack: https://www.newgrounds.com/audio/listen/503544
+cell sound effect: https://www.youtube.com/watch?v=P3cTxdGj2zI
 
 fonts: 
 better vcr by artdzyk - https://www.dafont.com/better-vcr.font
